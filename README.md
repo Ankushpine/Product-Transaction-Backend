@@ -52,7 +52,7 @@ API   Link   -  [Link](https://product-transaction-backend.onrender.com/api/?mon
 - The first letter of the month should be capitalized, such as 'January, February, ..'.  
 - Error cases are properly handled.
 
-### The Postman collection link is : [Postman Link](https://martian-escape-677270.postman.co/workspace/Product-Transactions~b5d773c2-6dbf-480f-aa08-adc1c23cb266/collection/28535484-0035c017-7d30-46ba-a6ca-251b22b44de4?action=share&creator=28535484)
+### The Postman collection link  : [Postman Link](https://martian-escape-677270.postman.co/workspace/Product-Transactions~b5d773c2-6dbf-480f-aa08-adc1c23cb266/collection/28535484-0035c017-7d30-46ba-a6ca-251b22b44de4?action=share&creator=28535484)
 
 ## How to setup the project on local system
 - Clone this project to your local system.
