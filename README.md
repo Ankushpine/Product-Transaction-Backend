@@ -36,7 +36,7 @@ API  Link   -  [Link](https://product-transaction-backend.onrender.com/api/price
 - Error cases are properly handled.
 
 
-### 4.Pie Chart API:
+### 4. Pie Chart API:
 API Link    - [Link](https://product-transaction-backend.onrender.com/api/piechart/?month=April)
 
 - To get the unique categories and the number of items within each category for the selected month
