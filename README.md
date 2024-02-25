@@ -2,7 +2,7 @@
  
 The product transaction backend, crafted using Node.js and MongoDB, ensures smooth handling of transactions. All error cases are carefully managed, guaranteeing a hassle-free experience for users. APIs are fetched seamlessly, bringing in data accurately and efficiently. 
 
-- Product details are fetched from the given APIs as soon as the server starts.
+- Product details are fetched from the given API as soon as the server starts.
 - For the database, MongoDB is used.
 
 ### Hosted Link : [Link](https://product-transaction-backend.onrender.com)
