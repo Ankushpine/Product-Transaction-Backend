@@ -10,7 +10,7 @@ The product transaction backend, crafted using Node.js and MongoDB, ensures smoo
 ### There are a total of 5 APIs available:
 
 ### 1. Transactions API:
-API Link  -  [link](https://product-transaction-backend.onrender.com/api/transactions/?page=2)
+API Link  -  [Link](https://product-transaction-backend.onrender.com/api/transactions/?page=2)
 
 - To get all transactions with pagination.
 - Each page displays 10 product details.
@@ -19,7 +19,7 @@ API Link  -  [link](https://product-transaction-backend.onrender.com/api/transac
 - If every query params is empty, it will return all product transactions.
 
 ### 2. Statistics API:
-API Link   -  [link](https://product-transaction-backend.onrender.com/api/statistics/?month=April)
+API Link   -  [Link](https://product-transaction-backend.onrender.com/api/statistics/?month=April)
 
 - To get the total sale amount, the number of sold items, and the number of unsold items for the selected month.
 - Users have to add '/?month=April' as query param to select the month.
@@ -45,7 +45,7 @@ API Link    - [Link](https://product-transaction-backend.onrender.com/api/piecha
 - Otherwise, error cases are properly handled.
 
 ### 5. Combined API:
-API   Link   -  [link](https://product-transaction-backend.onrender.com/api/?month=April)
+API   Link   -  [Link](https://product-transaction-backend.onrender.com/api/?month=April)
 
 -To fetch the data from all three APIs: Transactions, Statistics, and Pie Chart.
 - Users have to add '/?month=April' as query param to select the month.
