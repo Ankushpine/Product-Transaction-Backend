@@ -47,7 +47,7 @@ API Link    - [Link](https://product-transaction-backend.onrender.com/api/piecha
 ### 5. Combined API:
 API   Link   -  [Link](https://product-transaction-backend.onrender.com/api/?month=April)
 
--To fetch the data from all three APIs: Transactions, Price Range and Pie Chart.
+- To fetch the data from all three APIs: Transactions, Price Range and Pie Chart.
 - Users have to add '/?month=April' as query param to select the month.
 - The first letter of the month should be capitalized, such as 'January, February, ..'.  
 - Error cases are properly handled.
