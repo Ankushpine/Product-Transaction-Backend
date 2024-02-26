@@ -5,7 +5,7 @@ The product transaction backend, crafted using Node.js and MongoDB, ensures smoo
 - Product details are fetched from the given API as soon as the server starts.
 - For the database, MongoDB is used.
 
-### Hosted Link : [Link](https://product-transaction-backend.onrender.com)
+### ` Hosted Link ` : [Link](https://product-transaction-backend.onrender.com)
 
 ### There are a total of 5 APIs available:
 
@@ -14,15 +14,15 @@ API Link  -  [Link](https://product-transaction-backend.onrender.com/api/transac
 
 - To get all transactions with pagination.
 - Each page displays 10 product details.
-- Users can add '/?page=2' as query param to navigate to the desired page.
-- Users can add '/?search=329.85' as query param for title/description/price, and based on matching results, it will return the product transactions.
+- Users can add `/?page=2` as query param to navigate to the desired page.
+- Users can add `/?search=329.85` as query param for title/description/price, and based on matching results, it will return the product transactions.
 - If every query params is empty, it will return all product transactions.
 
 ### 2. Statistics API:
 API Link   -  [Link](https://product-transaction-backend.onrender.com/api/statistics/?month=April)
 
 - To get the total sale amount, the number of sold items, and the number of unsold items for the selected month.
-- Users have to add '/?month=April' as query param to select the month.
+- Users have to add `/?month=April` as query param to select the month.
 - The first letter of the month should be capitalized, such as 'January, February, ...  
 - Error cases are properly handled.
 
@@ -31,7 +31,7 @@ API Link   -  [Link](https://product-transaction-backend.onrender.com/api/statis
 API  Link   -  [Link](https://product-transaction-backend.onrender.com/api/pricerange/?month=April)
  
 - To get the price range and the number of items within that range for the selected month
-- Users have to add '/?month=April' as query param to select the month.
+- Users have to add `/?month=April` as query param to select the month.
 - The first letter of the month should be capitalized, such as 'January, February, ...  
 - Error cases are properly handled.
 
@@ -40,7 +40,7 @@ API  Link   -  [Link](https://product-transaction-backend.onrender.com/api/price
 API Link    - [Link](https://product-transaction-backend.onrender.com/api/piechart/?month=April)
 
 - To get the unique categories and the number of items within each category for the selected month
-- Users have to add '/?month=April' as query param to select the month.
+- Users have to add `/?month=April` as query param to select the month.
 - The first letter of the month should be capitalized, such as 'January, February, ...  
 - Error cases are properly handled.
 
@@ -48,7 +48,7 @@ API Link    - [Link](https://product-transaction-backend.onrender.com/api/piecha
 API   Link   -  [Link](https://product-transaction-backend.onrender.com/api/?month=April)
 
 - To fetch the data from all three APIs: Transactions, Price Range and Pie Chart.
-- Users have to add '/?month=April' as query param to select the month.
+- Users have to add `/?month=April` as query param to select the month.
 - The first letter of the month should be capitalized, such as 'January, February, ..'.  
 - Error cases are properly handled.
 
